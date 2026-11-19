@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/TestResults/
+.vs/
+.idea/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.log
