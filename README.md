@@ -1,6 +1,7 @@
 # Gomoku
 
 A configurable Gomoku implementation with a reusable console menu, a shared game engine, JSON and EF Core persistence, and console and browser UIs.
+![alt text](image.png)
 
 ## Run
 
